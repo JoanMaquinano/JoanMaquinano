@@ -157,9 +157,11 @@ Interactive Power BI dashboard for monitoring mortgage trading performance and K
 
 ## 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://ithub.io/jo-maquinano-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-for-the-badge&logo=linkedin](https://www.linkedin.com/in/jrmaquinano/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:jrmaquinano@alum
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-blue?style](https://joanmaquinano.github.io/jo-maquinano-portfolio/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-007-the-badge&logo=linkedin](https://www.linkedin.com/in/jrmaquinano/)
+
+[![Email](https://img.shields.io/badge/Email-Contactyle=for-the-badge&logo=gmail](mailto:jrmaquinano@alum.up.edu.ph)
 
 ---
 
