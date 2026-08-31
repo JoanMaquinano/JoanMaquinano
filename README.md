@@ -60,9 +60,6 @@ Dimensional data warehouse built in Databricks using a Raw → Clean → Mart ar
 ### 🛒 Retail Loyalty Pipeline
 End-to-end pipeline processing retail transactions through Bronze, Silver, and Gold layers.
 
-🔗 Repository: [Retail Loyalty🏪 Sari-Sari Store Data Pipeline
-Data quality project focused on cleansing, validation, deduplication, and trustworthy reporting datasets.
-
 🔗 Repository: https://github.com/ItsYangCoder/retail-loyalty-data-pipeline
 
 ### 🌊 Marine Sanctuary Impact Analysis
