@@ -1,202 +1,217 @@
-# Hi, I'm Joan Maquinano 👋
+<div align="center">
 
-### Data & ESG Analyst | Aspiring Data Engineer
+# 👋 Hi, I'm Joan Maquinano
 
-<!--
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Data+%26+ESG+Analyst;Aspiring+Data+Engineer;Building+Databricks+and+SQL+Projects;Turning+Raw+Data+into+Reliable+Insights;Lifelong+Learner+and+Curious+Problem+Solver" alt="Typing SVG" child-like sense of wonder.*
--->
+### Data & ESG Analyst • Aspiring Data Engineer
+
+https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Joan+Maquinano;Aspiring+Data+Engineer;Turning+raw+data+into+meaningful+insights;Building+analytics-ready+data+solutions;Always+learning%2C+always+curious
+
+<br>
+
+<!-- REPLACE LINKEDIN URL -->
+https://www.linkedin.com/in/jrmaquinano/
+  https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+</a>
+
+<!-- REPLACE WITH YOUR GITHUB URL IF NEEDED -->
+https://github.com/joanmaquinano
+  https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white
+</a>
+
+<!-- REPLACE EMAIL -->
+your-email@example.com
+  https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+</a>
+
+<!-- REPLACE PORTFOLIO URL IF NEEDED -->
+<a href="https://joanmaquinano.github.io/jo-maquinano-portfolio/">
+  https://img.shields.io/badge/Portfolio-Visit-7B61FF?style=for-the-badge&logo=googlechrome&logoColor=white
+</a>
+
+</div>
+
 ---
+
+https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,50:7B61FF,100:FF4ECD&section=header
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Joan Maquinano**, a Data & ESG Analyst based in the Philippines.
+Hello! I'm **Joan Maquinano**, a Data & ESG Analyst from the Philippines and an **Aspiring Data Engineer**.
 
-My journey started in **Biology and research**, where I worked with biodiversity and scientific datasets. Today, I work with large-scale ESG datasets, ensuring data quality, accuracy, and reliability while continuously building my skills in **Data Engineering and Data Science**.
+My journey started in biology and research, where I worked with scientific and biodiversity datasets. Today, I work with large-scale ESG and sustainability data, ensuring quality, accuracy, and reliability for reporting and decision-making.
 
-I enjoy transforming messy data into trusted information, documenting processes, validating data pipelines, and building solutions that help people make better decisions.
+I enjoy transforming raw data into trusted information through:
 
-- 🔭 Currently working as an Analyst at Institutional Shareholder Services (ISS)
-- 🌱 Currently learning Databricks, Data Engineering, PySpark, Delta Lake & Data Modeling
-- 🏗️ Building end-to-end analytics and data engineering portfolio projects
-- 📊 Interested in Data Warehousing, Data Quality, Analytics Engineering, and Data Science
-- 🤝 Open to collaborating on SQL, Analytics, and Data Engineering projects
-- 🎯 Long-term goal: Become a Data Scientist with strong Data Engineering foundations
-- 📍 Philippines
+- 🔹 Data pipelines
+- 🔹 Data cleaning and validation
+- 🔹 Dimensional modeling
+- 🔹 Data quality frameworks
+- 🔹 Analytics and reporting
+- 🔹 Data warehouse design
 
----
-
-## 🚀 Data Engineering Journey
-
-Through the **Accenture x FTW Foundation Data Engineering Fellowship**, I've gained hands-on experience with:
-
-- Medallion Architecture (Raw → Clean → Mart)
-- Databricks SQL
-- Delta Lake
-- Unity Catalog
-- Data Validation Frameworks
-- Data Warehouse Design
-- Dimensional Modeling
-- Star Schema Design
-- Git & GitHub Collaboration
-- Documentation and Data Governance
+Currently, I'm building my skills in **Databricks, Delta Lake, Spark, SQL, and Data Engineering best practices** through hands-on portfolio projects and continuous learning.
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Current Focus
 
-### Institutional Shareholder Services (ISS)
-
-- Validated and reconciled ESG and EU Taxonomy data for **5,000+ companies**
-- Maintained **99%+ data accuracy** against operational KPIs
-- Investigated data quality issues through multi-source verification
-- Performed reporting validation, audits, and quality assurance checks
-- Improved reporting reliability through documentation and process improvements
-
-### Quantitative Aquatics
-
-- Cleaned and standardized global biodiversity datasets
-- Validated 1,000+ FishBase records
-- Collaborated with international researchers on data standardization
-
-### 3rd Shift
-
-- Analyzed marketing performance data
-- Increased reach by 66%
-- Increased engagement by 43%
+- 🌱 Learning Data Engineering and Data Warehousing
+- 🏗️ Building Databricks portfolio projects
+- 📊 Developing analytics dashboards and reports
+- 🔍 Strengthening data validation and quality processes
+- ☁️ Exploring modern data platforms and cloud technologies
 
 ---
 
-<h2>🛠️ Technologies</h2>
+# 🛠️ Technologies
 
-<h3>📊 Analytics & BI</h3>
-
-<p>
-  https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
-  https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-  https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white
-  https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white
-</p>
-
-<h3>🏗️ Data Engineering</h3>
+## 🏗️ Data Engineering
 
 <p>
   https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white
-  https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge
-  https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white
-  https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+  https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white
+  https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge
+  https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 </p>
 
-<h3>💻 Programming</h3>
+## 📊 Data Analytics
+
+<p>
+  https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white
+  https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
+  https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white
+</p>
+
+## 💻 Programming
 
 <p>
   https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
   https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
-  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+  https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 </p>
 
-<h3>☁️ Platforms & Tools</h3>
+## 🤝 Tools & Collaboration
 
 <p>
-  https://img.shields.io/badge/Databricks_SQL-FF3621?style=for-the-badge
+  https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
   https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white
   https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white
-  https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎵 Chinook Data Warehouse
+### 🎵 Chinook Dimensional Model
 
-Dimensional data warehouse built in Databricks following a Medallion Architecture approach.
-
-**Highlights**
-- Raw, Clean, Mart layers
-- Star schema implementation
-- Fact and dimension modeling
-- Data quality validation
-- Tableau reporting
+A dimensional data warehouse built in Databricks using a Raw → Clean → Mart architecture. Includes star schema design, Delta tables, validation checks, and analytics-ready reporting.
 
 **Tech:** Databricks SQL • Delta Lake • Tableau • GitHub
 
----
-
-### 🌊 Marine Sanctuary Impact Analysis
-
-Analyzed over 10 years of reef fish monitoring data to evaluate the impact of marine protected areas.
-
-✅ Published in a peer-reviewed journal
-
-**Tech:** R • Statistics • Research Analytics
+🔗 **Repository:**  
+`REPLACE_WITH_CHINOOK_REPOSITORY_URL`
 
 ---
 
-### 🏍️ Motorcycle Parts Sales Analysis
+### 🛒 Retail Loyalty Data Pipeline
 
-Business-focused SQL analysis identifying sales patterns, revenue drivers, and warehouse performance.
+An end-to-end data pipeline that processes retail transaction and membership data through Bronze, Silver, and Gold layers with validation, transformation, and KPI generation.
 
-**Tech:** SQL • PostgreSQL
+**Tech:** Databricks • SQL • Delta Lake • Medallion Architecture
 
----
-
-### 📈 Mortgage Trading Dashboard
-
-Interactive Power BI dashboard for monitoring mortgage trading performance and KPI reporting.
-
-**Tech:** Power BI • Data Visualization
+🔗 **Repository:**  
+`REPLACE_WITH_RETAIL_PIPELINE_URL`
 
 ---
 
-## 🎓 Education & Certifications
+### 🏪 Sari-Sari Store Data Pipeline
 
-- BS Biology (Major in Zoology), University of the Philippines Los Baños
-- Google Data Analytics Professional Certificate
-- Associate Data Analyst in SQL Career Track (DataCamp)
-- Data Engineering Pilipinas Scholar
-- Accenture x FTW Foundation Data Engineering Fellow
-- DOST Merit Scholar
+A data-quality focused project that cleans, validates, deduplicates, and integrates transaction data while maintaining trustworthy records for analytics.
 
----
+**Tech:** Databricks • SQL • Data Validation • Data Quality
 
-## 🌱 Beyond Work
-
-- 🎨 Art and creativity
-- 🌿 Nature and sustainability
-- ☕ Cafés, museums, galleries, and weekend adventures
-- 📚 Continuous learning
-- 🏡 Building a future in data, one project at a time
-
----
-
-## 🔗 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-blue?style](https://joanmaquinano.github.io/jo-maquinano-portfolio/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-007-the-badge&logo=linkedin](https://www.linkedin.com/in/jrmaquinano/)
-
-[![Email](https://img.shields.io/badge/Email-Contactyle=for-the-badge&logo=gmail](mailto:jrmaquinano@alum.up.edu.ph)
+🔗 **Repository:**  
+`REPLACE_WITH_SARISARI_PIPELINE_URL`
 
 ---
 
 ## 📈 GitHub Analytics
 
-![Joan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joanma&theme=github_dark
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?inano&layout=compact&theme=github_dark
+https://github-readme-stats.vercel.app/api?username=joanmaquinano&show_icons=true&theme=tokyonight&hide_border=true
 
-![GitHub Streak](https://streak-stats.demolab.com?user=me=github-dark-blue
+https://github-readme-stats.vercel.app/api/top-langs/?username=joanmaquinano&layout=compact&theme=tokyonight&hide_border=true
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+https://streak-stats.demolab.com?user=joanmaquinano&theme=tokyonight&hide_border=true
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+https://github-profile-trophy.vercel.app/?username=joanmaquinano&theme=tokyonight&no-frame=true&column=4
+
+</div>
 
 ---
 
 ## 📊 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/nmaquinano
+<div align="center">
+
+https://github-readme-activity-graph.vercel.app/graph?username=joanmaquinano&theme=tokyo-night
+
+</div>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=joanmaquinanodge
+## 🐍 Contribution Snake
 
-*"Curious enough to ask questions. Determined enough to find answers in the data."*
+<!-- Configure through GitHub Actions later -->
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg
+
+---
+
+## 🌟 Fun Facts
+
+- 🎓 BS Biology Major in Zoology, University of the Philippines Los Baños
+- 🌿 Passionate about sustainability, biodiversity, and ESG data
+- 📚 Lifelong learner transitioning toward Data Engineering
+- 🎨 Enjoy art, museums, galleries, and creative projects
+- ☕ Powered by curiosity and coffee
+
+---
+
+## 👀 Visitor Counter
+
+<div align="center">
+
+https://komarev.com/ghpvc/?username=joanmaquinano&style=for-the-badge&color=blueviolet
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+**Let's connect and build something meaningful with data.**
+
+https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C6FF,50:7B61FF,100:FF4ECD
+
+</div>
