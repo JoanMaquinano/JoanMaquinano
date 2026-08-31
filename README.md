@@ -167,13 +167,11 @@ Interactive Power BI dashboard for monitoring mortgage trading performance and K
 
 ## 📈 GitHub Analytics
 
-![Joan's GitHub Stats](https://github-readmesername=joanmaquinano&show_icons=true
+![Joan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joanma&theme=github_dark
 
-![Top Languagesreadme-stats.vercel.app/api/top-langs/?username=joanmaquinano&layout=compact
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?inano&layout=compact&theme=github_dark
 
-![GitHub Streak](https://streak-stats.demolab.com?user=joanma🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.appoanmaquinano
+![GitHub Streak](https://streak-stats.demolab.com?user=me=github-dark-blue
 
 ---
 
