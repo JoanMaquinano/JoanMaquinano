@@ -4,35 +4,31 @@
 
 ### Data & ESG Analyst • Aspiring Data Engineer
 
-https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Joan+Maquinano;Aspiring+Data+Engineer;Turning+raw+data+into+meaningful+insights;Building+analytics-ready+data+solutions;Always+learning%2C+always+curious
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Joan+Maquinano;Aspiring+Data+Engineer;Turning+raw+data+into+meaningful+insights;Building+analytics-ready+data+solutions;Always+learning%2C+always+curious" alt="Typing SVG" />
 
 <br>
 
-<!-- REPLACE LINKEDIN URL -->
-https://www.linkedin.com/in/jrmaquinano/
-  https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+<a href="https://www.linkedin.com/in/jrmaquinano/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 
-<!-- REPLACE WITH YOUR GITHUB URL IF NEEDED -->
-https://github.com/joanmaquinano
-  https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white
+<a href="https://github.com/joanmaquinano">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
 </a>
 
-<!-- REPLACE EMAIL -->
-your-email@example.com
-  https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
 </a>
 
-<!-- REPLACE PORTFOLIO URL IF NEEDED -->
 <a href="https://joanmaquinano.github.io/jo-maquinano-portfolio/">
-  https://img.shields.io/badge/Portfolio-Visit-7B61FF?style=for-the-badge&logo=googlechrome&logoColor=white
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7B61FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge" />
 </a>
 
 </div>
 
 ---
 
-https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,50:7B61FF,100:FF4ECD&section=header
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,50:7B61FF,100:FF4ECD&section=header" alt="Header Wave" />
 
 ## 👩‍💻 About Me
 
@@ -63,41 +59,41 @@ Currently, I'm building my skills in **Databricks, Delta Lake, Spark, SQL, and D
 
 ---
 
-# 🛠️ Technologies
+<h2>🛠️ Technologies</h2>
 
-## 🏗️ Data Engineering
+<h3>🏗️ Data Engineering</h3>
 
 <p>
-  https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white
-  https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white
-  https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge
-  https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=deltalake&logoColor=white" alt="Delta Lake" />
 </p>
 
-## 📊 Data Analytics
+<h3>📊 Data Analytics</h3>
 
 <p>
-  https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white
-  https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-  https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
 </p>
 
-## 💻 Programming
+<h3>💻 Programming</h3>
 
 <p>
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-  https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
-  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-  https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-## 🤝 Tools & Collaboration
+<h3>🤝 Tools & Collaboration</h3>
 
 <p>
-  https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-  https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white
-  https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
 </p>
 
 ---
@@ -136,14 +132,15 @@ A data-quality focused project that cleans, validates, deduplicates, and integra
 `REPLACE_WITH_SARISARI_PIPELINE_URL`
 
 ---
-
+<!--
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=joanmaquinano&show_icons=true&theme=tokyonight&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=joanmaquinano&layout=compact&theme=tokyonight&hide_border=true
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=joanmaquinano&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanmaquinano&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 </div>
 
@@ -153,7 +150,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=joanmaquinano&lay
 
 <div align="center">
 
-https://streak-stats.demolab.com?user=joanmaquinano&theme=tokyonight&hide_border=true
+<img src="https://streak-stats.demolab.com?user=joanmaquinano&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 
 </div>
 
@@ -163,7 +160,7 @@ https://streak-stats.demolab.com?user=joanmaquinano&theme=tokyonight&hide_border
 
 <div align="center">
 
-https://github-profile-trophy.vercel.app/?username=joanmaquinano&theme=tokyonight&no-frame=true&column=4
+<img src="https://github-profile-trophy.vercel.app/?username=joanmaquinano&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -173,16 +170,9 @@ https://github-profile-trophy.vercel.app/?username=joanmaquinano&theme=tokyonigh
 
 <div align="center">
 
-https://github-readme-activity-graph.vercel.app/graph?username=joanmaquinano&theme=tokyo-night
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joanmaquinano&theme=tokyo-night" alt="Contribution Graph" />
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<!-- Configure through GitHub Actions later -->
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg
 
 ---
 
@@ -200,18 +190,19 @@ https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-sn
 
 <div align="center">
 
-https://komarev.com/ghpvc/?username=joanmaquinano&style=for-the-badge&color=blueviolet
+<img src="https://komarev.com/ghpvc/?username=joanmaquinano&style=for-the-badge&color=blueviolet" alt="Visitor Counter" />
 
 </div>
 
 ---
 
 <div align="center">
+-->
 
 ### 💜 Thanks for visiting my profile!
 
 **Let's connect and build something meaningful with data.**
 
-https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C6FF,50:7B61FF,100:FF4ECD
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C6FF,50:7B61FF,100:FF4ECD" alt="Footer Wave" />
 
 </div>
