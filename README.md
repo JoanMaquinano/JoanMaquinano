@@ -2,9 +2,10 @@
 
 ### Data & ESG Analyst | Aspiring Data Engineer
 
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Data+%26+ESG+Analyst;Aspiring+Data+Engineer;Building+Databricks+and+SQL+Projects;Turning+Raw+Data+into+Reliable+Insights;Lifelong+Learner+and+Curious+Problem+Solver" alt="Typing SVG" child-like sense of wonder.*
-
+-->
 ---
 
 ## 👩‍💻 About Me
