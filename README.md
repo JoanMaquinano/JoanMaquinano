@@ -67,34 +67,43 @@ Through the **Accenture x FTW Foundation Data Engineering Fellowship**, I've gai
 
 ---
 
-# 🛠️ Technologies
+<h2>🛠️ Technologies</h2>
 
-### 📊 Analytics & BI
+<h3>📊 Analytics & BI</h3>
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoesql&logoColor=white
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?e-badge&logo=powerbi&logoColor=black
-![Tableau](https://img.shields.io/badge/Tableaule=for-the-badge&logo=tableau&logoColor=white
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-thego=microsoftexcel&logoColor=white
+<p>
+  https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+  https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
+  https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white
+  https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white
+</p>
 
-### 🏗️ Data Engineering
+<h3>🏗️ Data Engineering</h3>
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=logo=databricks&logoColor=white
-![tps://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge
-![Snowflake](https://img.shields.io/badge/Snowflake-for-the-badge&logo=snowflake&logoColor=white
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=oColor=white
-![GitHub](https://img.shields.io/badge/GitHub-181717?styleadge&logo=github&logoColor=white
+<p>
+  https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white
+  https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge
+  https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white
+  https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+  https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+</p>
 
-### 💻 Programming
+<h3>💻 Programming</h3>
 
-![Python](https://img.shields.iohon-3776AB?style=for-the-badge&logo=python&logoColor=white
-![R](https://img.shields.io/badge/R-276DC3?stylethe-badge&logo=r&logoColor=white
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316the-badge&logo=postgresql&logoColor=white
+<p>
+  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+  https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+</p>
 
-### ☁️ Platforms & Tools
+<h3>☁️ Platforms & Tools</h3>
 
-![Databricks SQL](https://img.shields.io/badge/Databricks_SQL-FF3621?style=for-the-b://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jColor=white
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-bheets&logoColor=white
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?styledge&logo=visualstudiocode&logoColor=white
+<p>
+  https://img.shields.io/badge/Databricks_SQL-FF3621?style=for-the-badge
+  https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white
+  https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white
+  https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
+</p>
 
 ---
 
