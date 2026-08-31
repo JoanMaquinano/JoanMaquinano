@@ -67,27 +67,27 @@ Through the **Accenture x FTW Foundation Data Engineering Fellowship**, I've gai
 
 ---
 
-## 🛠️ Technologies
+# 🛠️ Technologies
 
-### Data Analytics
+### 📊 Data Analytics
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badgeostgresql&logoColor=white
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811he-badge&logo=powerbi&logoColor=black
+![Tableau](https://img.shields.io/badge/627?style=for-the-badge&logo=tableau&logoColor=white
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-thego=microsoftexcel&logoColor=white
 
-### Data Engineering
+### 🔗 Data Engineering
 
-![Databricks](https://img.shields.io/badge/Databricksfor-the-badge&logo=databricks&logoColor=white
-![Delta Lake](https://imgdge/Delta%20Lake-00ADD8?style=for-the-badge
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&te
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-=databricks&logoColor=white
+![Delta Lake](https://img.shields.io/badge/Deltatyle=for-the-badge
+![Snowflake](https://img.shields.io/badge/Snowflake-29B-the-badge&logo=snowflake&logoColor=white
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badgeit&logoColor=white
 
-### Programming
+### 💻 Programming
 
-![Python](https://img.shields.io/badge/Pythonyle=for-the-badge&logo=python&logoColor=white
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&r&logoColor=white
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192-badge&logo=postgresql&logoColor=white
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&white
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&olor=white
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=logo=postgresql&logoColor=white
 
 ---
 
