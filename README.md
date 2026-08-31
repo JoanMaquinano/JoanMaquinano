@@ -1,5 +1,3 @@
-## Bio nerd turned data nerd. Still an experimentalist at heart.
-
 # Hi, i'm Maki! 🍣
 
 **BS Biology graduate from UPLB, DOST scholar, former researcher, current Data & ESG Analyst, and aspiring Data Engineer. ✨**
