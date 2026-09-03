@@ -39,26 +39,30 @@ Currently documenting my journey from:
 - Google Sheets
 
 **Programming**
-- Python
-- R
 - SQL
+- - Python
+- R
 
 **Tools**
-- Git
 - GitHub
 - Jira
 
 ## Featured projects
 
+### 🛒 Instacart Dimensional Warehouse
+Dimensional data warehouse built in Databricks using a Raw → Clean → Mart architecture, star schema modeling, and validation checks.
+
+🔗 Repository: https://github.com/JoanMaquinano/instacart-medallion-data-pipeline
+
 ### 🎵 Chinook Dimensional Warehouse
 Dimensional data warehouse built in Databricks using a Raw → Clean → Mart architecture, star schema modeling, and validation checks.
 
-🔗 Repository: https://github.com/ItsYangCoder/d3-chinook-dimensional-model
+🔗 Repository: https://github.com/JoanMaquinano/chinook-dimensional-model
 
 ### 🛒 Retail Loyalty Pipeline
 End-to-end pipeline processing retail transactions through Bronze, Silver, and Gold layers.
 
-🔗 Repository: https://github.com/ItsYangCoder/retail-loyalty-data-pipeline
+🔗 Repository: https://github.com/JoanMaquinano/retail-loyalty-data-pipeline
 
 ### 🌊 Marine Sanctuary Impact Analysis
 R-based analysis of long-term reef fish monitoring data used in a published marine conservation study.
@@ -67,11 +71,9 @@ R-based analysis of long-term reef fish monitoring data used in a published mari
 
 ## Currently learning
 
-- Data Engineering
 - Apache Spark
-- Delta Lake
-- Data Modeling
 - Data Quality Engineering
+- CI/CD
 
 ---
 
