@@ -40,7 +40,7 @@ Currently documenting my journey from:
 
 **Programming**
 - SQL
-- - Python
+- Python
 - R
 
 **Tools**
