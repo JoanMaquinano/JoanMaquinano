@@ -52,7 +52,7 @@ Currently documenting my journey from:
 ### 🛒 Instacart Dimensional Warehouse
 Dimensional data warehouse built in Databricks using a Raw → Clean → Mart architecture, star schema modeling, and validation checks.
 
-🔗 Repository: https://github.com/JoanMaquinano/instacart-medallion-data-pipeline
+🔗 Repository: https://github.com/jess-christine/instacart-pipeline
 
 ### 🎵 Chinook Dimensional Warehouse
 Dimensional data warehouse built in Databricks using a Raw → Clean → Mart architecture, star schema modeling, and validation checks.
