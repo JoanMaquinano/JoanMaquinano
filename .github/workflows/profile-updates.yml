@@ -2,7 +2,7 @@ name: Update Profile Dashboard
 
 on:
   schedule:
-    # Daily at 9:00 AM Philippines Time (1:00 AM UTC)
+    # Daily at 9:00 AM Philippine Time (01:00 UTC)
     - cron: '0 1 * * *'
   workflow_dispatch:
 
@@ -20,48 +20,52 @@ jobs:
       - name: Generate Dashboard Files
         run: |
           TODAY=$(date -u +"%Y-%m-%d")
+          REPO_COUNT=$(find . -maxdepth 1 -type f | wc -l)
 
-          # Generate now.md
           cat > now.md << EOF
           # What I'm Working On Now
 
-          **Last Updated:** ${TODAY}
+          Last Updated: ${TODAY}
 
-          ## Profession
+          ## Role
           Data & ESG Analyst at ISS
 
           ## Current Focus
           - FTW Data Engineering Fellowship
           - Databricks Data Engineer Associate Preparation
-          - Data Engineering Portfolio Projects
+          - Data Engineering Portfolio Development
 
           ## Active Projects
           - Instacart Medallion Pipeline
           - Chinook Dimensional Model
           - FTW Data Engineering Journal
 
-          ## Currently Learning
+          ## Current Learning Areas
           - Delta Lake
           - PySpark
           - Dimensional Modeling
-          - Data Quality Validation
+          - Data Quality Engineering
+          - Data Warehouse Design
 
-          ## Career Goal
-          Transition into a Data Engineer or Data Scientist role.
+          ## Professional Goal
+          Transition into a Data Engineering role while continuing to strengthen analytics and data platform expertise.
 
-          ## Why This File Exists
-          This page acts as a living snapshot of my current professional focus and learning journey.
+          ## Portfolio Maintenance
+          This file is automatically refreshed to provide a current snapshot of professional focus areas, active projects, and learning objectives.
           EOF
 
-          # Create log file if missing
           touch activity-log.md
 
-          # Append daily snapshot
-          echo "## ${TODAY}" >> activity-log.md
-          echo "- Portfolio dashboard refreshed" >> activity-log.md
-          echo "- Current focus areas reviewed" >> activity-log.md
-          echo "- Learning journey checkpoint recorded" >> activity-log.md
-          echo "" >> activity-log.md
+          if ! grep -q "## ${TODAY}" activity-log.md; then
+            {
+              echo "## ${TODAY}"
+              echo "- Portfolio dashboard refreshed."
+              echo "- Active project inventory reviewed."
+              echo "- Professional development snapshot recorded."
+              echo "- Repository file count: ${REPO_COUNT}"
+              echo ""
+            } >> activity-log.md
+          fi
 
       - name: Commit Changes
         run: |
@@ -70,7 +74,7 @@ jobs:
 
           git add now.md activity-log.md
 
-          git diff --staged --quiet || git commit -m "docs: update profile dashboard ($(date -u +%Y-%m-%d))"
+          git diff --staged --quiet || git commit -m "docs: refresh professional dashboard"
 
       - name: Push Changes
         run: git push
