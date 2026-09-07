@@ -1,0 +1,76 @@
+name: Update Profile Dashboard
+
+on:
+  schedule:
+    # Daily at 9:00 AM Philippines Time (1:00 AM UTC)
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Dashboard Files
+        run: |
+          TODAY=$(date -u +"%Y-%m-%d")
+
+          # Generate now.md
+          cat > now.md << EOF
+          # What I'm Working On Now
+
+          **Last Updated:** ${TODAY}
+
+          ## Profession
+          Data & ESG Analyst at ISS
+
+          ## Current Focus
+          - FTW Data Engineering Fellowship
+          - Databricks Data Engineer Associate Preparation
+          - Data Engineering Portfolio Projects
+
+          ## Active Projects
+          - Instacart Medallion Pipeline
+          - Chinook Dimensional Model
+          - FTW Data Engineering Journal
+
+          ## Currently Learning
+          - Delta Lake
+          - PySpark
+          - Dimensional Modeling
+          - Data Quality Validation
+
+          ## Career Goal
+          Transition into a Data Engineer or Data Scientist role.
+
+          ## Why This File Exists
+          This page acts as a living snapshot of my current professional focus and learning journey.
+          EOF
+
+          # Create log file if missing
+          touch activity-log.md
+
+          # Append daily snapshot
+          echo "## ${TODAY}" >> activity-log.md
+          echo "- Portfolio dashboard refreshed" >> activity-log.md
+          echo "- Current focus areas reviewed" >> activity-log.md
+          echo "- Learning journey checkpoint recorded" >> activity-log.md
+          echo "" >> activity-log.md
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add now.md activity-log.md
+
+          git diff --staged --quiet || git commit -m "docs: update profile dashboard ($(date -u +%Y-%m-%d))"
+
+      - name: Push Changes
+        run: git push
