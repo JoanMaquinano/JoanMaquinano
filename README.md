@@ -47,7 +47,7 @@ Currently documenting my journey from:
 - GitHub
 - Jira
 
-## Featured projects
+## Featured case studies
 
 ### 🛒 Instacart Dimensional Warehouse
 Dimensional data warehouse built in Databricks using a Raw → Clean → Mart architecture, star schema modeling, and validation checks.
