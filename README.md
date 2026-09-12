@@ -49,6 +49,11 @@ Currently documenting my journey from:
 
 ## Featured case studies
 
+### 🎓 OULAD Data Pipeline
+End-to-end data pipeline analyzing student learning analytics and engagement patterns from the Open University Analytics Dataset (OULAD).
+
+🔗 Repository: https://github.com/catweyine/OULAD-Pipeline
+
 ### 🛒 Instacart Dimensional Warehouse
 Dimensional data warehouse built in Databricks using a Raw → Clean → Mart architecture, star schema modeling, and validation checks.
 
