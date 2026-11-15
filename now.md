@@ -1,6 +1,6 @@
 # What I'm Working On Now
 
-Last Updated: 2026-11-14
+Last Updated: 2026-11-15
 
 ## Role
 Data & ESG Analyst at ISS
